@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/85b444e7-5edd-4272-ba92-76b273cfdea1)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/85b444e7-5edd-4272-ba92-76b273cfdea1" alt="Threat Hunt Diagram" width="500"/>
+</p>
 
 # Threat Hunt Report: Unauthorized Privilege Escalation via Local Admin Creation
 
