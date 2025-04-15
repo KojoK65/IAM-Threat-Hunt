@@ -13,15 +13,7 @@
 
 ---
 
-## 🎯 Scenario Overview
-
-Security operations received alerts of potentially unauthorized account changes. It is suspected that a threat actor may have created a local admin account for persistence. This hunt investigates whether any IAM-related abuse occurred, such as:
-
-- Creation of local admin accounts  
-- Use of execution policy bypass in PowerShell  
-- Script download activity through PowerShell  
-
-> If any IAM abuse is found, the incident must be escalated to the response team.
+## - [ 🎯 Scenario Creation](https://github.com/KojoK65/IAM-Threat-Hunt/blob/main/IAM-Threat-Hunt-Event-Creation.md)
 
 ---
 
