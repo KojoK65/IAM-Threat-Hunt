@@ -68,17 +68,8 @@ DeviceNetworkEvents
 
 ## 👤 Created By
 
-- **Author Name:** Ben  
-- **Author Contact:** [LinkedIn/GitHub if desired]  
+- **Author Name:** Kojo Karl-Agbee  
 - **Date:** April 13, 2025  
-
----
-
-## ✅ Validated By
-
-- **Reviewer Name:**  
-- **Reviewer Contact:**  
-- **Validation Date:**  
 
 ---
 
@@ -93,4 +84,4 @@ DeviceNetworkEvents
 
 | Version | Changes       | Date           | Modified By |
 |---------|---------------|----------------|-------------|
-| 1.0     | Initial draft | April 13, 2025 | Ben         |
+| 1.0     | Initial draft | April 13, 2025 | Kojo        |
