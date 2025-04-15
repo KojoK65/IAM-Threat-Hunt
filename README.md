@@ -49,8 +49,9 @@ DeviceProcessEvents
 | where Timestamp > ago(1d)
 ```
 
-**Screenshot:**  
-![Step 1 Screenshot](images/step1_localadmin_creation.png)
+<img width="700" alt="Screen Shot 2025-04-13 at 6 00 40 PM" src="https://github.com/user-attachments/assets/8f294dea-ec8c-4fa5-9865-6f3c4510b824" />
+
+
 
 ---
 
@@ -65,9 +66,7 @@ DeviceProcessEvents
 | where ProcessCommandLine has "-ExecutionPolicy Bypass"
 | where Timestamp > ago(1d)
 ```
-
-**Screenshot:**  
-![Step 2 Screenshot](images/step2_powershell_bypass.png)
+<img width="855" alt="Screen Shot 2025-04-13 at 6 08 17 PM" src="https://github.com/user-attachments/assets/bf1eb1a8-5d25-4f3c-9572-0ff75b878b39" />
 
 ---
 
@@ -83,8 +82,8 @@ DeviceNetworkEvents
 | where Timestamp > ago(1d)
 ```
 
-**Screenshot:**  
-![Step 3 Screenshot](images/step3_script_download.png)
+<img width="883" alt="Screen Shot 2025-04-13 at 6 09 32 PM" src="https://github.com/user-attachments/assets/90b5ff88-3b19-4723-8a52-679b83c8f6d7" />
+
 
 ---
 
