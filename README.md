@@ -83,9 +83,9 @@ DeviceNetworkEvents
 
 | Time (EST) | Event |
 |------------|-------|
-| 08:14:22 | Local admin account created using `net.exe` |
-| 08:15:09 | PowerShell launched with `-ExecutionPolicy Bypass` |
-| 08:15:47 | PowerShell attempted to download a remote `.ps1` script |
+| 05:10:22 | Local admin account created using `net.exe` |
+| 05:14:09 | PowerShell launched with `-ExecutionPolicy Bypass` |
+| 05:37:47 | PowerShell attempted to download a remote `.ps1` script |
 
 ---
 
